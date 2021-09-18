@@ -1,0 +1,4 @@
+Server Name=Onion Farm
+Port=42069
+Maximum Number Of Players=100
+key=1

@@ -1,0 +1,5 @@
+spawnpoint:(100,-500)
+seed:12345678
+time:0
+dateCreated:9-12-2020
+dateLastPlayed:9-12-2020
