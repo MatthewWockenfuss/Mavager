@@ -1,0 +1,3 @@
+#this is the .gitignore file
+/.project
+#this ignores the .project file created by eclipse
